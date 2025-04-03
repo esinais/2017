@@ -18,5 +18,18 @@ O e-Sinais é um software educacional que realiza a tradução de palavra do Por
 - **Linguagem de Programação:** Java
 - **Banco de Dados:** HSQL
 
+# Outras informações
+É mandatório baixar as imagens (em formato GIF) e colocar na pasta "dados" do projeto para que o software educacional e-Sinais funcione corretamente.
+
+A seguir detalhes deste procedimento: 
+1) Baixar pasta "images" no seguinte link: https://goo.gl/j8mTu7
+2) Colocar a pasta "images" dentro da pasta "dados" do projeto
+
+Clicar no arquivo 'e-Sinais.bat' para executar o aplicativo e-Sinais.
+
+OBS: O e-Sinais foi desenvolvido na Linguagem de Programação Java na IDE NetBeans.
+
+- [**Manual do Usuário**]()
+
 ## License
 GNU General Public License version 3.0 (GPLv3)
