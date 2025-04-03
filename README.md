@@ -12,5 +12,11 @@ O e-Sinais é um software educacional que realiza a tradução de palavra do Por
 - Exportação de sinal para arquivo PDF;
 - Visualização de imagem associada ao sinal.
 
+## Outras informações
+- **Sistema Operaciona:** Linux, Windows
+- **User Interface:** Java Swing
+- **Linguagem de Programação:** Java
+- **Banco de Dados:** HSQL
+
 ## License
 GNU General Public License version 3.0 (GPLv3)
